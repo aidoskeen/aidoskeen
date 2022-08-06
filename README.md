@@ -1,4 +1,4 @@
-Aidos Alimkhan
+Aidos Alimkhan \n
 Information Technology student in VilniusTech
 Main interests are Java/C++ app development,
 Android app development with Kotlin,RESTful services
