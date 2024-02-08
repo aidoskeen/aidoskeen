@@ -1,5 +1,5 @@
-Aidos Alimkhan \n
-Android Developer \n
+Aidos Alimkhan
+Android Developer
 Main interests are Android app development, RESTful services
 
 
